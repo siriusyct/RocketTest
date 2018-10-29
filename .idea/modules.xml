@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RocketTest.iml" filepath="$PROJECT_DIR$/.idea/modules/RocketTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RocketTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RocketTest_main.iml" group="RocketTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RocketTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RocketTest_test.iml" group="RocketTest" />
+    </modules>
+  </component>
+</project>
