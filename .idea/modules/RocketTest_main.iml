@@ -12,6 +12,8 @@
     <orderEntry type="library" name="Gradle: org.apache.thrift:libthrift:0.11.0" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.poi:poi:4.0.0" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.poi:poi-ooxml:4.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq:activemq-all:5.15.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.alibaba:fastjson:1.2.51" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.12" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.4.1" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.1" level="project" />
